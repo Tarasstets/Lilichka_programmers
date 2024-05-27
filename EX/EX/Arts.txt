@@ -1,0 +1,2 @@
+Picture1 5000 3 picture 
+Statyetka 7500 5 Sculpture

@@ -1,0 +1,2 @@
+Picture2 3000 1 picture Ivan uniqPicture 3100
+Chess 6000 2 item Galya uniqItem 6500

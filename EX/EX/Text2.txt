@@ -1,0 +1,2 @@
+A Picture1 5000 3 picture 
+A serviz 7500 5 posud 

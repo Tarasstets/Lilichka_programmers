@@ -1,0 +1,4 @@
+A Picture1 5000 3 picture 
+C Picture2 3000 1 picture Ivan uniqPicture 3100
+A serviz 7500 5 posud 
+C serviz1 6000 2 posud Galya uniqPosud 6500
