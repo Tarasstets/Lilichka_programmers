@@ -1,0 +1,8 @@
+﻿  Progresia.cpp
+  Source.cpp
+D:\Programming\MY\Progresia\Project21\Source.cpp(32,22): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Spadna.cpp
+  Generating Code...
+  Project21.vcxproj -> D:\Programming\MY\Progresia\x64\Debug\Project21.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

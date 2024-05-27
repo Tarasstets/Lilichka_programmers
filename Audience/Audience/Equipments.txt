@@ -1,0 +1,6 @@
+A 111 40 10 20
+M 418 80 30 40 3 Projector Table Computer
+A 130 40 10 20
+M 155 80 30 40 2 Projector  Computer
+A 221 40 10 20
+M 333 80 30 40 1 Computer

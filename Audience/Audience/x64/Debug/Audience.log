@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Programming\MY\Audience\Audience\Source.cpp(71,8): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Audience.vcxproj -> D:\Programming\MY\Audience\x64\Debug\Audience.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
